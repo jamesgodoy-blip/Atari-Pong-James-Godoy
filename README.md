@@ -2,7 +2,7 @@
 **Estudiante:** James Godoy
 **Curso:** Primer Semestre - Ingeniería
 
-Para este proyecto, se seleccionó la librería `pygame` debido a su robustez en el manejo de gráficos 2D. Sin embargo, durante el desarrollo se identificó una complejidad técnica: la incompatibilidad actual de Pygame con las versiones más recientes de Python (3.13+). 
+Para este proyecto, se seleccione la librería `pygame` debido a su robustez en el manejo de gráficos 2D. Sin embargo, durante el desarrollo se identificó una complejidad técnica: la incompatibilidad actual de Pygame con las versiones más recientes de Python (3.13+). 
 
  A pesar de las limitaciones del entorno local, decidí priorizar la síntesis de la lógica algorítmica. He cuestionado el uso de librerías externas frente a la lógica pura, asegurando que el código sea funcional en su estructura de control (bucles e iteraciones), independientemente de la renderización gráfica.
 
